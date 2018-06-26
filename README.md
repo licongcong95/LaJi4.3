@@ -8,9 +8,9 @@
 
 1.3  File文件夹为生成垃圾文件目录
 
-1.3.1  Controller 生成的控制器文件
-1.3.2  Model 控制器文件中可能使用到的数据模型类
-1.3.3  Resouce 代码执行是iamgeView使用到的图片资源
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.1  Controller 生成的控制器文件</br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.2  Model 控制器文件中可能使用到的数据模型类</br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.3  Resouce 代码执行是iamgeView使用到的图片资源</br>
 
 1.4  注意事项：
 代码中有使用到pillow，安装pillow可正常使用
